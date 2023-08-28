@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.scss";
 import { Story } from "../components/Story";
 import { User } from "../components/User";
+import { Posts } from "../components/Posts";
 export const Home = () => {
   return (
     <div className="home-sect">
@@ -14,6 +15,10 @@ export const Home = () => {
           <Story />
           <Story />
           <Story />
+        </div>
+
+        <div className="posts">
+          <Posts />
         </div>
       </div>
       <div className="suggested">
