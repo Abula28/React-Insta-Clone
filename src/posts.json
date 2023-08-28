@@ -4,47 +4,99 @@
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   },
   {
     "user": "username",
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   },
   {
     "user": "username",
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": false,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   },
   {
     "user": "username",
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   },
   {
     "user": "username",
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   },
   {
     "user": "username",
     "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
     "post_duration": "6w",
     "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": false,
     "likes": 330,
-    "comment": "lorem ipsum, lorem"
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
+  },
+  {
+    "user": "username",
+    "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "post_duration": "6w",
+    "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
+    "likes": 330,
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
+  },
+  {
+    "user": "username",
+    "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "post_duration": "6w",
+    "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
+    "likes": 330,
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
+  },
+  {
+    "user": "username",
+    "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "post_duration": "6w",
+    "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": false,
+    "likes": 330,
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
+  },
+  {
+    "user": "username",
+    "profile_picture": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "post_duration": "6w",
+    "post": "https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg",
+    "follow": true,
+    "likes": 330,
+    "comment": "lorem ipsum, lorem",
+    "comments": 345
   }
 ]
