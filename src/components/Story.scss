@@ -1,0 +1,50 @@
+.story-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  p {
+    font-size: 10px;
+    font-weight: 200;
+  }
+  .story {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1;
+    position: relative;
+    z-index: 0;
+    cursor: pointer;
+
+    /* Add a linear gradient border */
+    border: 3px solid transparent;
+    background-clip: padding-box;
+    background-image: linear-gradient(to left, #e1306c, #f77737);
+
+    &::before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      inset: 0;
+      padding: var(--b);
+      border-radius: 50%;
+      -webkit-mask: linear-gradient(#fff 0 0) content-box,
+        linear-gradient(#fff 0 0);
+      mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask-composite: exclude;
+    }
+  }
+
+  .story-img {
+    width: 90%;
+    height: 90%;
+    background-image: url(/img/default-profile-picture.png);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    z-index: 1;
+  }
+}
